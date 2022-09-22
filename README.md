@@ -5,7 +5,7 @@ Check out [Bootstrap Select dropdown with search Documentation](https://mdbootst
 
 ## Basic example
 
-[Bootstrap Table column with auto width:
+[Bootstrap Select dropdown with search:
 ![Bootstrap 5 Select dropdown with search](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/extended/select-dropdown-with-search/#section-basic-example)
 
 
