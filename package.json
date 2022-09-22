@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-select-dropdown-with-search",
+  "version": "1.0.0",
+  "description": "Responsive Select dropdown with search built with Bootstrap 5. Helps you find the options you are looking for by searching.",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-select-dropdown-with-search.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-select-dropdown-with-search",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-select-dropdown-with-search/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/select-dropdown-with-search/"
+}
